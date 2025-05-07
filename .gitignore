@@ -1,2 +1,8 @@
+# cache
+__pycache__
 
+
+# 가상환경 
 .venv 
+.vscode
+.env
